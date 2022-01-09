@@ -7,7 +7,7 @@ using namespace std ;
 #include <iomanip>
 
 int main (){
-    double total (0) , miles(0) , tripCounter (0) , mpg(0);
+    double total(0) , miles(0) , tripCounter (0) , mpg(0);
     cout << "Enter miles driven (-1 to quit): " ;
     cin >> miles ;
 
